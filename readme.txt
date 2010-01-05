@@ -3,7 +3,7 @@ Contributors: filosofo
 Donate link: http://pressedwords.com/solving-wordpress-seo-paged-comments-problem/
 Tags: comments, seo, paged-comments, paged
 Requires at least: 2.7
-Tested up to: 2.8.5
+Tested up to: 2.9.1
 Stable tag: 1.1
 
 Reduce SEO problems when using WordPress's paged comments.
