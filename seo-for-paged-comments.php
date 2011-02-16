@@ -3,6 +3,7 @@
 /* 
  Plugin Name: SEO for Paged Comments
  Version: 1.1
+ Plugin URI: http://pressedwords.com/solving-wordpress-seo-paged-comments-problem/
  Description: Reduce SEO problems when using WordPress's paged comments.
  Author: Austin Matzko
  Author URI: http://www.pressedwords.com
